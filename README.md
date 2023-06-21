@@ -1,4 +1,4 @@
-Taste Journey
+# Taste Journey
 This is a prototype project of a recipe application developed with React. The objective of this project is to provide a simple and intuitive platform for users to find, share, and create their own recipes.
 
 Contributors:
@@ -8,7 +8,7 @@ Nathália Nunes
 Paulo Willian
 Nathan Lucas
 
-Features
+**Features**
 
 The recipe application has the following features:
 
@@ -16,7 +16,7 @@ Search for recipes by title, ingredients, or category.
 View recipe details, including ingredients and instructions.
 Technologies Used
 
-The following technologies were used for the development of this project:
+**The following technologies were used for the development of this project:**
 
 React
 HTML/CSS
@@ -24,7 +24,7 @@ JavaScript
 Redux
 Installation
 
-Follow the instructions below to run the project on your local machine:
+**Follow the instructions below to run the project on your local machine:**
 
 Clone this repository to your local directory.
 Make sure you have Node.js installed on your machine.
@@ -34,14 +34,9 @@ After the installation is complete, run the command npm start to start the appli
 The application will open in your default browser at http://localhost:3000.
 Contribution
 
-If you wish to contribute to this project, follow the steps below:
 
-Fork the repository.
-Create a new branch for your contribution.
-Make the necessary changes and commit them.
-Push your changes to your forked repository.
-Submit a pull request with your changes.
-Contact
+
+**Contact**
 
 For any questions or suggestions, feel free to contact any of the contributors listed above.
 
