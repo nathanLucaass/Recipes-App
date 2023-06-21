@@ -1,0 +1,25 @@
+.done {
+  color: black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+h2 {
+  color: #a44a3f;
+  text-decoration: none;
+}
+
+.finish-filters {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+}
+
+.filter-btn {
+  background-color: #ae2b09;
+  border-radius: 5px;
+  color: white;
+  font-size: large;
+  width: 70px;
+}

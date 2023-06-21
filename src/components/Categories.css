@@ -1,0 +1,23 @@
+.categories {
+  align-items: center;
+  background-image: linear-gradient(to bottom, transparent, rgba(255, 255, 255, 0.945));
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  display: flex;
+  gap: 0.5rem;
+  height: 1rem;
+  justify-content: space-around;
+  margin-bottom: 10px;
+  margin-top: 7px;
+  padding: 1rem;
+  width: 100%;
+}
+
+.category-button {
+  background-color: #ae2a09;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  color: white;
+  font-size: 13px;
+  font-weight: 800;
+  padding: 0.3rem 0.2rem;
+}

@@ -1,0 +1,24 @@
+.ingredients-check {
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.ingredients-check ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.ingredients-check label {
+  align-items: center;
+  display: flex;
+  margin-bottom: 8px;
+}
+
+
+.ingredients-check p {
+  margin: 0;
+}
