@@ -8,14 +8,14 @@ Nathália Nunes
 Paulo Willian
 Nathan Lucas
 
-Funcionalidades*
+**Funcionalidades**
 O aplicativo de receitas possui as seguintes funcionalidades:
 
 Pesquisar receitas por título, ingredientes ou categoria.
 Visualizar detalhes de uma receita, incluindo ingredientes e instruções.
 
 
-Tecnologias Utilizadas*
+**Tecnologias Utilizadas**
 As seguintes tecnologias foram utilizadas para o desenvolvimento deste projeto:
 
 React
@@ -23,7 +23,7 @@ HTML/CSS
 JavaScript
 Redux
 
-Instalação*
+**Instalação**
 Siga as instruções abaixo para executar o projeto em sua máquina local:
 
 Clone este repositório para o seu diretório local.
@@ -35,7 +35,7 @@ O aplicativo será aberto em seu navegador padrão no endereço http://localhost
 Contribuição
 Se você deseja contribuir para este projeto, siga as etapas abaixo:
 
-Contato*
+**Contato**
 Para qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato com qualquer um dos colaboradores listados acima.
 
 Esperamos que você aproveite o aplicativo de receitas!
