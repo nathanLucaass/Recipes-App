@@ -1,45 +1,48 @@
-# Taste Journey
-Este é um projeto de protótipo de um aplicativo de receitas desenvolvido com React. O objetivo deste projeto é fornecer uma plataforma simples e intuitiva para que os usuários possam encontrar, compartilhar e criar suas próprias receitas.
+Taste Journey
+This is a prototype project of a recipe application developed with React. The objective of this project is to provide a simple and intuitive platform for users to find, share, and create their own recipes.
 
-Colaboradores
+Contributors:
 Clinton Brito
 Léticia Chaves
 Nathália Nunes
 Paulo Willian
 Nathan Lucas
 
-**Funcionalidades**
+Features
 
-O aplicativo de receitas possui as seguintes funcionalidades:
+The recipe application has the following features:
 
-Pesquisar receitas por título, ingredientes ou categoria.
-Visualizar detalhes de uma receita, incluindo ingredientes e instruções.
+Search for recipes by title, ingredients, or category.
+View recipe details, including ingredients and instructions.
+Technologies Used
 
-
-**Tecnologias Utilizadas**
-
-As seguintes tecnologias foram utilizadas para o desenvolvimento deste projeto:
+The following technologies were used for the development of this project:
 
 React
 HTML/CSS
 JavaScript
 Redux
+Installation
 
-**Instalação**
+Follow the instructions below to run the project on your local machine:
 
-Siga as instruções abaixo para executar o projeto em sua máquina local:
+Clone this repository to your local directory.
+Make sure you have Node.js installed on your machine.
+Open the terminal and navigate to the project directory.
+Run the command npm install to install the project dependencies.
+After the installation is complete, run the command npm start to start the application.
+The application will open in your default browser at http://localhost:3000.
+Contribution
 
-Clone este repositório para o seu diretório local.
-Certifique-se de ter o Node.js instalado em sua máquina.
-Abra o terminal e navegue até o diretório do projeto.
-Execute o comando npm install para instalar as dependências do projeto.
-Após a conclusão da instalação, execute o comando npm start para iniciar o aplicativo.
-O aplicativo será aberto em seu navegador padrão no endereço http://localhost:3000.
-Contribuição
-Se você deseja contribuir para este projeto, siga as etapas abaixo:
+If you wish to contribute to this project, follow the steps below:
 
-**Contato**
+Fork the repository.
+Create a new branch for your contribution.
+Make the necessary changes and commit them.
+Push your changes to your forked repository.
+Submit a pull request with your changes.
+Contact
 
-Para qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato com qualquer um dos colaboradores listados acima.
+For any questions or suggestions, feel free to contact any of the contributors listed above.
 
-Esperamos que você aproveite o aplicativo de receitas!
+We hope you enjoy the recipe application!
