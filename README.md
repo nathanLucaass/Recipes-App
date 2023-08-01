@@ -2,11 +2,7 @@
 This is a prototype project of a recipe application developed with React. The objective of this project is to provide a simple and intuitive platform for users to find, share, and create their own recipes.
 
 Contributors:
-Clinton Brito
-Léticia Chaves
-Nathália Nunes
-Paulo Willian
-Nathan Lucas
+Clinton Brito, Léticia Chaves, Nathália Nunes, Paulo Willian, Nathan Lucas.
 
 **Features**
 
@@ -21,8 +17,8 @@ Technologies Used
 React
 HTML/CSS
 JavaScript
+React
 Redux
-Installation
 
 **Follow the instructions below to run the project on your local machine:**
 
